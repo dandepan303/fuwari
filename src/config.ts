@@ -20,7 +20,7 @@ export const siteConfig: SiteConfig = {
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: true,         // Display the credit text of the banner image
-      text: '空色天絵 / Neo Tokyo Noir #08',              // Credit text to be displayed
+      text: '空色天絵 / NEO TOKYO NOIR #08',              // Credit text to be displayed
       url: 'https://www.pixiv.net/en/artworks/123761013'                // (Optional) URL link to the original artwork or artist's page
     }
   },
