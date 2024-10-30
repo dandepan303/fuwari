@@ -71,4 +71,4 @@ Now, for the most important part, the sound!
 <iframe width="100%" height="468" src="https://www.youtube.com/embed/8ZhRrg-9bFA?si=EAIgTtWXwXWJOf6M" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 
-An interesting sound profile, it has some cremy-ness to it, but it also has something else I can't put my finger on. I personally like it!
+An interesting sound profile, it has some creamy-ness to it, but it also has something else I can't put my finger on. I personally like it!
