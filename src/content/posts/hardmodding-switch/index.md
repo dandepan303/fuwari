@@ -8,6 +8,10 @@ category: Tech
 draft: false
 ---
 
+:::warning
+This is not a comprehensive guide. Just a blog post about how I did it myself. If you want to "mod/hack" your Switch, I recommend following thourough guides on [switch.hacks.guide](https://Switch.hacks.guide) and following the dissassembly guides on [ifixit](https://www.ifixit.com/Teardown/Nintendo+Switch+Teardown/78263?srsltid=AfmBOopafqIlha4w_7wViLBNHRTsR9xevz8mXbvGGDWJCnt6BXANPRET). As always, you, and only you, are responsible for what happens to your console.
+:::
+
 # Background
 
 I’ve had my Nintendo Switch sitting around and collecting dust for a while now. My interest was piqued when I learned about the combination of [box64](https://github.com/ptitSeb/box64) and [wine64](https://winehq.org), two programs that emulate x86 architectures and windows applications efficiently. I was even more excited when I learned about the [switchroot](https://switchroot.org/) project, a project that allows people to run Ubuntu 24.04, Fedora 39, and Android 14 on the Switch natively!
