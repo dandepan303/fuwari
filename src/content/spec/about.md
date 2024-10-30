@@ -1,7 +1,13 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Hey, I'm Dean, a 13-year-old that sometimes exists on the web. This is my blog (written in astro) where I share cool stuff and what I've learnt throughout my STEM journey.
 
-::github{repo="saicaca/fuwari"}
+## My Skills
+- Started VEX Robotics in 2020
+- Knows Node/Nuxt JS
+- Tries to learn Astro
+- Iron 1 in Valorant
+
+---
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
