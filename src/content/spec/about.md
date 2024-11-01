@@ -5,7 +5,6 @@ Hey, I'm Dean, a 13-year-old that sometimes exists on the web. This is my blog (
 - Started VEX Robotics in 2020
 - Knows Node/Nuxt JS
 - Tries to learn Astro
-- Iron 1 in Valorant
 
 ---
 
